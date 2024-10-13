@@ -10,21 +10,21 @@ const ImageList = [
     img: Image1,
     title: "Upto 50% off on all Men's Wear",
     description:
-      "lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "His life will forever be changed. We are dedicated to excellence, providing quality experiences and products that cater to every need. Our commitment to innovation ensures that each moment brings value and satisfaction, as we strive to make a positive impact on our customers' lives",
   },
   {
     id: 2,
     img: Image2,
     title: "30% off on all Women's Wear",
     description:
-      "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Who's there? We are here to redefine excellence in every interaction. Committed to delivering quality products and experiences, we embrace innovation and hard work. Each moment is an opportunity for growth, and we strive to make a positive impact in the lives of our customers.",
   },
   {
     id: 3,
     img: Image3,
     title: "70% off on all Products Sale",
     description:
-      "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "We are dedicated to excellence, ensuring that every effort is met with quality and precision. Our commitment to innovation drives us to create impactful solutions that enhance experiences and deliver meaningful results.",
   },
 ];
 

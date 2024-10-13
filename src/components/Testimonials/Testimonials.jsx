@@ -5,25 +5,25 @@ const TestimonialData = [
   {
     id: 1,
     name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Shopping online can be a hassle, but this site makes it effortless! I can find all my favorite fashion brands in one place, and their speedy delivery ensures I’m always on trend. It’s become my go-to for all things style!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Trump",
+    text: "I’m always on the lookout for versatile pieces that I can wear on set or off-duty, and this e-commerce platform delivers every time. The range of styles and the ease of shopping make it my first choice. I love that I can find something fabulous for any occasion, all with a few clicks!",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
     name: "Virat Kohli",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "As someone who is always on the lookout for the latest gadgets, I trust this e-commerce platform to deliver the best products right to my door. The user experience is seamless, and their customer service is top-notch. Shopping here is always a pleasure!",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
-    name: "Sachin Tendulkar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Ronaldo Messi",
+    text: "Finding high-quality fashion that matches my style can be a challenge, but this website makes it easy! From the latest runway trends to timeless classics, they always have what I’m looking for. Plus, their returns policy gives me peace of mind when I try new looks!",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -79,8 +79,7 @@ const Testimonials = () => {
             Testimonials
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+          With a commitment to excellence, we adapt and improve continually, embracing every challenge and opportunity for growth.
           </p>
         </div>
 

@@ -1,5 +1,5 @@
 import React from "react";
-import BannerImg from "../../assets/4547829.jpg";
+import BannerImg from "../../assets/images.jpg";
 import { GrSecure } from "react-icons/gr";
 import { IoFastFood } from "react-icons/io5";
 import { GiFoodTruck } from "react-icons/gi";
@@ -27,8 +27,7 @@ const Banner = () => {
               data-aos="fade-up"
               className="text-sm text-gray-500 tracking-wide leading-5"
             >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-              reiciendis inventore iste ratione ex alias quis magni at optio
+              The customer, by themselves, will be able to pursue the company’s offerings, allowing them to evaluate options effectively. By doing so, they can differentiate this company from others and make a well-informed decision
             </p>
             <div className="flex flex-col gap-4">
               <div data-aos="fade-up" className="flex items-center gap-4">

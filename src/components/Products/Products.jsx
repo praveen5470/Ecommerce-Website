@@ -61,8 +61,7 @@ const Products = () => {
             Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+          Embrace the essence of excellence and adapt to new challenges, allowing for continuous improvement and resilience in the face of adversity.
           </p>
         </div>
         {/* Body section */}
@@ -95,7 +94,7 @@ const Products = () => {
           {/* view all button */}
           <div className="flex justify-center">
             <button className="text-center mt-10 cursor-pointer bg-primary text-white py-1 px-5 rounded-md">
-              View All Button
+              View All
             </button>
           </div>
         </div>

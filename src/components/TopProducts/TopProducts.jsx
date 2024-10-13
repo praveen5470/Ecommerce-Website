@@ -10,21 +10,21 @@ const ProductsData = [
     img: Img1,
     title: "Casual Wear",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "We are dedicated to delivering quality with every experience, striving for excellence through hard work and continuous improvement. Our commitment ensures that each moment is focused on creating value and satisfaction for our customers.",
   },
   {
     id: 2,
     img: Img2,
     title: "Printed shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "We are dedicated to delivering quality with every experience, striving for excellence through hard work and continuous improvement. Our commitment ensures that each moment is focused on creating value and satisfaction for our customers.",
   },
   {
     id: 3,
     img: Img3,
     title: "Women shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "We are dedicated to delivering quality with every experience, striving for excellence through hard work and continuous improvement. Our commitment ensures that each moment is focused on creating value and satisfaction for our customers.",
   },
 ];
 const TopProducts = ({ handleOrderPopup }) => {
@@ -40,8 +40,7 @@ const TopProducts = ({ handleOrderPopup }) => {
             Best Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+          We are committed to delivering excellence in everything we do, adapting to challenges with precision and innovation. Our focus is on creating solutions that meet the highest standards, no matter how complex the task.
           </p>
         </div>
         {/* Body section */}
